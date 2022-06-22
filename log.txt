@@ -1,0 +1,313 @@
+processing line  0  outputLine len:  0  orientation:  DUAL
+symbol=ANXA1cat: AF3770
+output line:  [ANXA1 - 770 302/202 200nM 6/21/22]
+processing line  1  outputLine len:  1  orientation:  CAP
+symbol=AREGcat: AF262
+output line:  [AREG - 262 302/478 200nM 6/21/22]
+processing line  2  outputLine len:  2  orientation:  DUAL
+symbol=BMP8Bcat: H00000656-M01A
+output line:  [BMP8B - 01A 302/824 200nM 6/21/22]
+processing line  3  outputLine len:  3  orientation:  DET
+symbol=CD48cat: 10797-R007
+output line:  [CD48 - 007 725L/148 200nM 6/21/22]
+processing line  4  outputLine len:  4  orientation:  DUAL
+symbol=CLEC4Acat: 11476-MM02
+output line:  [CLEC4A - M02 302/576 200nM 6/21/22]
+processing line  5  outputLine len:  5  orientation:  DUAL
+symbol=CLEC4Acat: 11476-MM04
+output line:  [CLEC4A - M04 302/576 200nM 6/21/22]
+processing line  6  outputLine len:  6  orientation:  CAP
+writing output line
+symbol=CNTFcat: ab267430
+output line:  [CNTF - 430 302/231 200nM 6/21/22]
+processing line  7  outputLine len:  1  orientation:  DET
+symbol=CNTFcat: ab267429
+output line:  [CNTF - 429 231L/148 200nM 6/21/22]
+processing line  8  outputLine len:  2  orientation:  DUAL
+symbol=CSF2cat: MAB215
+output line:  [CSF2 - 215 302/27 200nM 6/21/22]
+processing line  9  outputLine len:  3  orientation:  DUAL
+symbol=CSF2cat: MAB615
+output line:  [CSF2 - 615 302/27 200nM 6/21/22]
+processing line  10  outputLine len:  4  orientation:  DUAL
+symbol=CSF2cat: 10015-mm04
+output line:  [CSF2 - m04 302/27 200nM 6/21/22]
+processing line  11  outputLine len:  5  orientation:  DUAL
+symbol=CSF2cat: 10015-mm06
+output line:  [CSF2 - m06 302/27 200nM 6/21/22]
+processing line  12  outputLine len:  6  orientation:  DUAL
+writing output line
+symbol=CSF2cat: 10015-r027
+output line:  [CSF2 - 027 302/27 200nM 6/21/22]
+processing line  13  outputLine len:  1  orientation:  DUAL
+symbol=CSF2RBcat: AF906
+output line:  [CSF2RB - 906 302/981 200nM 6/21/22]
+processing line  14  outputLine len:  2  orientation:  DUAL
+symbol=CSF2RBcat: 10516-MM01
+output line:  [CSF2RB - M01 302/981 200nM 6/21/22]
+processing line  15  outputLine len:  3  orientation:  DUAL
+symbol=CSF2RBcat: 10516-R001
+output line:  [CSF2RB - 001 302/981 200nM 6/21/22]
+processing line  16  outputLine len:  4  orientation:  DUAL
+symbol=CSF3Rcat: AF381
+output line:  [CSF3R - 381 302/982 200nM 6/21/22]
+processing line  17  outputLine len:  5  orientation:  DUAL
+symbol=CSF3Rcat: MAB381
+output line:  [CSF3R - 381 302/982 200nM 6/21/22]
+processing line  18  outputLine len:  6  orientation:  DUAL
+writing output line
+symbol=CSF3Rcat: MAB3811
+output line:  [CSF3R - 811 302/982 200nM 6/21/22]
+processing line  19  outputLine len:  1  orientation:  DUAL
+symbol=CST7cat: 10167-MM04T
+output line:  [CST7 - 04T 302/729 200nM 6/21/22]
+processing line  20  outputLine len:  2  orientation:  DUAL
+symbol=CST7cat: 10167-RP02
+output line:  [CST7 - P02 302/729 200nM 6/21/22]
+processing line  21  outputLine len:  3  orientation:  DUAL
+symbol=CST7cat: MAB1889
+output line:  [CST7 - 889 302/729 200nM 6/21/22]
+processing line  22  outputLine len:  4  orientation:  DUAL
+symbol=CTLA4cat: 349932
+output line:  [CTLA4 - 932 302/86 200nM 6/21/22]
+processing line  23  outputLine len:  5  orientation:  DUAL
+symbol=CTLA4cat: 11159-MM06
+output line:  [CTLA4 - M06 302/86 200nM 6/21/22]
+processing line  24  outputLine len:  6  orientation:  DUAL
+writing output line
+symbol=GDF1cat: MAB6937
+output line:  [GDF1 - 937 302/815 200nM 6/21/22]
+processing line  25  outputLine len:  1  orientation:  DUAL
+symbol=GDF7cat: AF779
+output line:  [GDF7 - 779 302/813 200nM 6/21/22]
+processing line  26  outputLine len:  2  orientation:  DUAL
+symbol=GDF9cat: AF3536
+output line:  [GDF9 - 536 302/829 200nM 6/21/22]
+processing line  27  outputLine len:  3  orientation:  DUAL
+symbol=GDF9cat: AF739
+output line:  [GDF9 - 739 302/829 200nM 6/21/22]
+processing line  28  outputLine len:  4  orientation:  DUAL
+symbol=GDF9cat: MAB8266
+output line:  [GDF9 - 266 302/829 200nM 6/21/22]
+processing line  29  outputLine len:  5  orientation:  DUAL
+symbol=GDF9cat: MAB739
+output line:  [GDF9 - 739 302/829 200nM 6/21/22]
+processing line  30  outputLine len:  6  orientation:  DUAL
+writing output line
+symbol=GDNFcat: AF212
+output line:  [GDNF - 212 302/972 200nM 6/21/22]
+processing line  31  outputLine len:  1  orientation:  DUAL
+symbol=GDNFcat: MAB212
+output line:  [GDNF - 212 302/972 200nM 6/21/22]
+processing line  32  outputLine len:  2  orientation:  DET
+symbol=ICAM1cat: ab288605
+output line:  [ICAM1 - 605 640L/148 200nM 6/21/22]
+processing line  33  outputLine len:  3  orientation:  CAP
+symbol=ICAM1cat: ab288623
+output line:  [ICAM1 - 623 302/640 200nM 6/21/22]
+processing line  34  outputLine len:  4  orientation:  DUAL
+symbol=IFNL3cat: MAB5259
+output line:  [IFNL3 - 259 302/799 200nM 6/21/22]
+processing line  35  outputLine len:  5  orientation:  DUAL
+symbol=ifnl3cat: MAB52591R
+output line:  [ifnl3 - 91R 302/799 200nM 6/21/22]
+processing line  36  outputLine len:  6  orientation:  DUAL
+writing output line
+symbol=IFNL3cat: 11890-MM18
+output line:  [IFNL3 - M18 302/799 200nM 6/21/22]
+processing line  37  outputLine len:  1  orientation:  DUAL
+symbol=IFNL3cat: 11890-R120
+output line:  [IFNL3 - 120 302/799 200nM 6/21/22]
+processing line  38  outputLine len:  2  orientation:  DUAL
+symbol=ifnl3cat: MAB52593
+output line:  [ifnl3 - 593 302/799 200nM 6/21/22]
+processing line  39  outputLine len:  3  orientation:  DUAL
+symbol=IFNL4cat: MAB9165
+output line:  [IFNL4 - 165 302/979 200nM 6/21/22]
+processing line  40  outputLine len:  4  orientation:  DUAL
+symbol=IL18BPcat: 10357-MM02
+output line:  [IL18BP - M02 302/450 200nM 6/21/22]
+processing line  41  outputLine len:  5  orientation:  DUAL
+symbol=IL18BPcat: 10357-R224
+output line:  [IL18BP - 224 302/450 200nM 6/21/22]
+processing line  42  outputLine len:  6  orientation:  DUAL
+writing output line
+symbol=IL1Acat: 500104
+output line:  [IL1A - 104 302/8 200nM 6/21/22]
+processing line  43  outputLine len:  1  orientation:  DUAL
+symbol=IL1Acat: AF200
+output line:  [IL1A - 200 302/8 200nM 6/21/22]
+processing line  44  outputLine len:  2  orientation:  DUAL
+symbol=IL1Acat: 10128-MM74
+output line:  [IL1A - M74 302/8 200nM 6/21/22]
+processing line  45  outputLine len:  3  orientation:  DUAL
+symbol=IL1Acat: 10128-r004
+output line:  [IL1A - 004 302/8 200nM 6/21/22]
+processing line  46  outputLine len:  4  orientation:  DUAL
+symbol=IL1RAPcat: MAB676R
+output line:  [IL1RAP - 76R 302/984 200nM 6/21/22]
+processing line  47  outputLine len:  5  orientation:  DUAL
+symbol=IL1RAPcat: 10121-mm04
+output line:  [IL1RAP - m04 302/984 200nM 6/21/22]
+processing line  48  outputLine len:  6  orientation:  DUAL
+writing output line
+symbol=IL1RAPcat: 10121-mm05
+output line:  [IL1RAP - m05 302/984 200nM 6/21/22]
+processing line  49  outputLine len:  1  orientation:  DUAL
+symbol=IL20RAcat: AF1176
+output line:  [IL20RA - 176 302/974 200nM 6/21/22]
+processing line  50  outputLine len:  2  orientation:  DUAL
+symbol=IL20RAcat: MAB11762
+output line:  [IL20RA - 762 302/974 200nM 6/21/22]
+processing line  51  outputLine len:  3  orientation:  DUAL
+symbol=IL20RAcat: 10397-MM02
+output line:  [IL20RA - M02 302/974 200nM 6/21/22]
+processing line  52  outputLine len:  4  orientation:  DUAL
+symbol=IL20RAcat: 10397-MM06
+output line:  [IL20RA - M06 302/974 200nM 6/21/22]
+processing line  53  outputLine len:  5  orientation:  DUAL
+symbol=IL20RAcat: 10397-R005
+output line:  [IL20RA - 005 302/974 200nM 6/21/22]
+processing line  54  outputLine len:  6  orientation:  DUAL
+writing output line
+symbol=IL20RAcat: 10397-R024
+output line:  [IL20RA - 024 302/974 200nM 6/21/22]
+processing line  55  outputLine len:  1  orientation:  DUAL
+symbol=IL20RAcat: 10397-R038
+output line:  [IL20RA - 038 302/974 200nM 6/21/22]
+processing line  56  outputLine len:  2  orientation:  DUAL
+symbol=IL25cat: MAB12581
+output line:  [IL25 - 581 302/96 200nM 6/21/22]
+processing line  57  outputLine len:  3  orientation:  DUAL
+symbol=IL25cat: MAB12582
+output line:  [IL25 - 582 302/96 200nM 6/21/22]
+processing line  58  outputLine len:  4  orientation:  DUAL
+symbol=IL25cat: OASB01345
+output line:  [IL25 - 345 302/96 200nM 6/21/22]
+processing line  59  outputLine len:  5  orientation:  DUAL
+symbol=IL25cat: OASB01346
+output line:  [IL25 - 346 302/96 200nM 6/21/22]
+processing line  60  outputLine len:  6  orientation:  DUAL
+writing output line
+symbol=IL25cat: 676304
+output line:  [IL25 - 304 302/96 200nM 6/21/22]
+processing line  61  outputLine len:  1  orientation:  DUAL
+symbol=IL25cat: MAB1258
+output line:  [IL25 - 258 302/96 200nM 6/21/22]
+processing line  62  outputLine len:  2  orientation:  DUAL
+symbol=IL3cat: 500-M03
+output line:  [IL3 - M03 302/20 200nM 6/21/22]
+processing line  63  outputLine len:  3  orientation:  DUAL
+symbol=IL3cat: 11858-mm07
+output line:  [IL3 - m07 302/20 200nM 6/21/22]
+processing line  64  outputLine len:  4  orientation:  DUAL
+symbol=IL3cat: 11858-mm22
+output line:  [IL3 - m22 302/20 200nM 6/21/22]
+processing line  65  outputLine len:  5  orientation:  DUAL
+symbol=IL3cat: 11858-mm35
+output line:  [IL3 - m35 302/20 200nM 6/21/22]
+processing line  66  outputLine len:  6  orientation:  DUAL
+writing output line
+symbol=IL36Gcat: AF2320
+output line:  [IL36G - 320 302/619 200nM 6/21/22]
+processing line  67  outputLine len:  1  orientation:  DUAL
+symbol=IL36Gcat: MAB2320
+output line:  [IL36G - 320 302/619 200nM 6/21/22]
+processing line  68  outputLine len:  2  orientation:  DUAL
+symbol=IL36Gcat: 10124-MM10
+output line:  [IL36G - M10 302/619 200nM 6/21/22]
+processing line  69  outputLine len:  3  orientation:  DUAL
+symbol=IL36Gcat: 10124-T16
+output line:  [IL36G - T16 302/619 200nM 6/21/22]
+processing line  70  outputLine len:  4  orientation:  DET
+symbol=IL3RAcat: ab285064
+output line:  [IL3RA - 064 646L/148 200nM 6/21/22]
+processing line  71  outputLine len:  5  orientation:  CAP
+symbol=IL3RAcat: ab284958
+output line:  [IL3RA - 958 302/646 200nM 6/21/22]
+processing line  72  outputLine len:  6  orientation:  DUAL
+writing output line
+symbol=INHAcat: MAB338
+output line:  [INHA - 338 302/752 200nM 6/21/22]
+processing line  73  outputLine len:  1  orientation:  DUAL
+symbol=INHAcat: PA513681
+output line:  [INHA - 681 302/752 200nM 6/21/22]
+processing line  74  outputLine len:  2  orientation:  DUAL
+symbol=INHBAcat: AF10024
+output line:  [INHBA - 024 302/753 200nM 6/21/22]
+processing line  75  outputLine len:  3  orientation:  DUAL
+symbol=INHBAcat: MAB3381
+output line:  [INHBA - 381 302/753 200nM 6/21/22]
+processing line  76  outputLine len:  4  orientation:  DUAL
+symbol=INHBAcat: 200422-T34
+output line:  [INHBA - T34 302/753 200nM 6/21/22]
+processing line  77  outputLine len:  5  orientation:  DUAL
+symbol=INHBAcat: 50659-R105
+output line:  [INHBA - 105 302/753 200nM 6/21/22]
+processing line  78  outputLine len:  6  orientation:  DET
+writing output line
+symbol=KitLGcat: 10451-R004
+output line:  [KitLG - 004 676L/148 200nM 6/21/22]
+processing line  79  outputLine len:  1  orientation:  CAP
+symbol=KITLGcat: 10451-R018
+output line:  [KITLG - 018 302/676 200nM 6/21/22]
+processing line  80  outputLine len:  2  orientation:  DUAL
+symbol=LEPcat: ABS0220602
+output line:  [LEP - 602 302/515 200nM 6/21/22]
+processing line  81  outputLine len:  3  orientation:  DUAL
+symbol=LEPcat: ABS0221102
+output line:  [LEP - 102 302/515 200nM 6/21/22]
+processing line  82  outputLine len:  4  orientation:  DUAL
+symbol=LEPcat: 10221-MM03
+output line:  [LEP - M03 302/515 200nM 6/21/22]
+processing line  83  outputLine len:  5  orientation:  DUAL
+symbol=LEPcat: 10221-MM05T
+output line:  [LEP - 05T 302/515 200nM 6/21/22]
+processing line  84  outputLine len:  6  orientation:  DUAL
+writing output line
+symbol=LEPcat: MA523740
+output line:  [LEP - 740 302/515 200nM 6/21/22]
+processing line  85  outputLine len:  1  orientation:  DUAL
+symbol=MICAcat: 320920
+output line:  [MICA - 920 302/618 200nM 6/21/22]
+processing line  86  outputLine len:  2  orientation:  DUAL
+symbol=MICAcat: MAB1300
+output line:  [MICA - 300 302/618 200nM 6/21/22]
+processing line  87  outputLine len:  3  orientation:  DUAL
+symbol=MICAcat: MAB13001
+output line:  [MICA - 001 302/618 200nM 6/21/22]
+processing line  88  outputLine len:  4  orientation:  DUAL
+symbol=MICAcat: MAB13002
+output line:  [MICA - 002 302/618 200nM 6/21/22]
+processing line  89  outputLine len:  5  orientation:  DUAL
+symbol=NODALcat: MAB3218
+output line:  [NODAL - 218 302/276 200nM 6/21/22]
+processing line  90  outputLine len:  6  orientation:  DUAL
+writing output line
+symbol=NODALcat: AF1315
+output line:  [NODAL - 315 302/276 200nM 6/21/22]
+processing line  91  outputLine len:  1  orientation:  DUAL
+symbol=PDGFAcat: MAB2211
+output line:  [PDGFA - 211 302/548 200nM 6/21/22]
+processing line  92  outputLine len:  2  orientation:  DUAL
+symbol=TGFAcat: AF239
+output line:  [TGFA - 239 302/761 200nM 6/21/22]
+processing line  93  outputLine len:  3  orientation:  DUAL
+symbol=TGFAcat: 11252-R012
+output line:  [TGFA - 012 302/761 200nM 6/21/22]
+processing line  94  outputLine len:  4  orientation:  DUAL
+symbol=TGFAcat: 11252-RP01
+output line:  [TGFA - P01 302/761 200nM 6/21/22]
+processing line  95  outputLine len:  5  orientation:  DUAL
+symbol=TGFAcat: 11252-T16
+output line:  [TGFA - T16 302/761 200nM 6/21/22]
+processing line  96  outputLine len:  6  orientation:  DUAL
+writing output line
+symbol=VEGFAcat: 11066-MM04
+output line:  [VEGFA - M04 302/121 200nM 6/21/22]
+processing line  97  outputLine len:  1  orientation:  DUAL
+symbol=VEGFAcat: 11066-MM05
+output line:  [VEGFA - M05 302/121 200nM 6/21/22]
+processing line  98  outputLine len:  2  orientation:  DUAL
+symbol=VEGFAcat: 11066-R105
+output line:  [VEGFA - 105 302/121 200nM 6/21/22]
